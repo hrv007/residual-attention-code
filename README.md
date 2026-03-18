@@ -47,8 +47,7 @@ Layers are partitioned into $N$ blocks. Attention is computed over **block-level
 │                                    #   BlockAttnResTransformer
 ├── experiments/
 │   └── run_experiment.py            # Training & evaluation on synthetic dataset
-├── results/                         # Generated plots saved here
-└── blog.md                          # Detailed technical writeup
+└── results/                         # Generated plots saved here
 ```
 
 ---
